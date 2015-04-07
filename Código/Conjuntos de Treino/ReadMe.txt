@@ -1,0 +1,1 @@
+Este dataset foi construído com dados recolhidos no dia 4 de Junho, em que parte correspondem a momentos de seizure e outra parte a momentos de non-seizure. O classificador Classifier4JunF tem o training set inteiro enquanto o classificador Classifier4Jun apenas tem metade dos dados.
